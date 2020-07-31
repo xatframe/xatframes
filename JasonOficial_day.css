@@ -153,6 +153,7 @@ canvas{
     top:80px;
     left:0;
     background:radial-gradient(650px 650px ellipse at -100px center, #DCAC8A 620px, transparent 621px), #321644;
+    display: none;
 }
 .jd__inner:before{
     width:75%;
@@ -163,6 +164,7 @@ canvas{
     left:12.5%;
     bottom:-25px;
     z-index:-1;
+    display: none;
 }
 .jd__letter{
     width:250px;
